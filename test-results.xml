@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.5570" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-01-16T15:03:06" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Cat Facts" timestamp="2020-01-16T15:03:06" tests="1" file="/Users/kishorebramhamdam/Test/mocha-axios-chai/dist/test/getFacts.js" time="0.5570" failures="0">
+    <testcase name="Cat Facts getFacts" time="0.5570" classname="getFacts">
+    </testcase>
+  </testsuite>
+</testsuites>
