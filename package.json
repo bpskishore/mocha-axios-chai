@@ -1,0 +1,23 @@
+{
+    "name": "mocha-axios-chai",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "tsc && mocha ./dist/test/*.js --reporter mochawesome"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/axios": "^0.14.0",
+        "@types/chai": "^4.2.7",
+        "@types/mocha": "^5.2.7",
+        "axios": "^0.19.1",
+        "chai": "^4.2.0",
+        "mocha": "^7.0.0",
+        "mocha-junit-reporter": "^1.23.3",
+        "mochawesome": "^4.1.0",
+        "typescript": "^3.7.4"
+    }
+}
